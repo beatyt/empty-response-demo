@@ -14,17 +14,15 @@ This project runs three express servers:
 
 ## Download Code
 
-`git clone `
+`git clone https://github.com/beatyt/empty-response-demo.git`
 
 ## Install Project Dependencies
 
-`npm install`
+`cd empty-response-demo && npm install`
 
 ## Start Server
 
-`cd empty-stream\express-reverse-proxy`
-
-`node index.js`
+`cd express-reverse-proxy && node index.js`
 
 ## Run the Demo JUnit test
 
