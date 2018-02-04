@@ -1,3 +1,6 @@
 .gradle
 out
 express-reverse-proxy/node_modules
+.idea
+build
+gradle
